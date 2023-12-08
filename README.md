@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-![The San Juan Mountains are beautiful!]([/assets/images/san-juan-mountains.jpg](https://i.ibb.co/7GFGkjL/github-header-image.png) "San Juan Mountains")
+![The San Juan Mountains are beautiful!](<(https://i.ibb.co/7GFGkjL/github-header-image.png)> 'San Juan Mountains')
 
 <!--
 **fai-sas/fai-sas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
