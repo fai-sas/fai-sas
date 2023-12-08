@@ -13,12 +13,14 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on NextJs projects
+- 🔭 I’m currently working on React.js projects
 - 🌱 Expanding my knowledge in Next.js, with a keen interest in mastering Prisma. Always excited to explore new tools and frameworks.
 - 🤔 Open to seeking assistance and insights on challenging aspects of web development, particularly in areas related to backend development
 
 ## Technologies I Know
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,)
+
+#
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fai-sas&theme=react&hide_border=true)](https://git.io/streak-stats)
