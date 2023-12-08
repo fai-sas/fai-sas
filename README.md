@@ -1,5 +1,9 @@
 ![The San Juan Mountains are beautiful!](/assets/github-header-image.png 'fai-sas banner image')
 
+#
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fai-sas&theme=default)
+
 <!--
 **fai-sas/fai-sas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,3 +28,11 @@
 #
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fai-sas&theme=react&hide_border=true)](https://git.io/streak-stats)
+
+#
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fai-sas&theme=default)
+
+#
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fai-sas&theme=default)
