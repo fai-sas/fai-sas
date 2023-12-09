@@ -1,4 +1,4 @@
-![The San Juan Mountains are beautiful!](/assets/github-header-image.png 'fai-sas banner image')
+![The San Juan Mountains are beautiful!](/assets/github-header-image-1.png 'fai-sas banner image')
 
 #
 
@@ -25,14 +25,54 @@
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,)
 
+## Latest Projects
+
+### [Hotel Booking](https://hotel-booking-cf.netlify.app)
+
+#### Features:
+
+- Register/Login via Email or Google
+- Explore Featured Rooms
+- Book, Update, or Cancel Reservations
+- Post Reviews
+
+#### Tech Stack:
+
+- HTML, CSS, TailwindCSS, Javascript, ReactJS, React Router Dom, Tanstack Query, NodeJS, ExpressJs, MongoDB, JWT, Firebase
+
+### [Employee Management](https://employee-management-cf.netlify.app)
+
+#### Features:
+
+- Register/Login via Email or Google
+- HR and Employee Roles
+- Admin Controls: Assign HR, Fire, Verify Employees
+- HR Payroll Management
+- Task Tracking and Payment History
+
+#### Tech Stack:
+
+- HTML, CSS, TailwindCSS, Javascript, ReactJS, React Router Dom, Tanstack Query, NodeJS, ExpressJs, MongoDB, JWT, Firebase, Stripe
+
+### [Brand Shop E-Commerce](https://brand-shop-cf.netlify.app)
+
+#### Features:
+
+- Register/Login via Email or Google
+- Browse Products by Brand
+- Add/Update Products
+- Detailed Product Views
+- Cart Functionality
+
+#### Tech Stack:
+
+- HTML, CSS, ReactJS, NodeJS, MongoDB, Firebase
+
 #
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fai-sas&theme=react&hide_border=true)](https://git.io/streak-stats)
 
 #
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fai-sas&theme=default)
-
-#
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fai-sas&theme=default)
+| [![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fai-sas&theme=default)](https://github.com/fai-sas) | [![Most Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fai-sas&theme=default)](https://github.com/fai-sas) |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
