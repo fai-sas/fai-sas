@@ -25,48 +25,6 @@
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,)
 
-## Latest Projects
-
-### [Hotel Booking](https://hotel-booking-cf.netlify.app)
-
-#### Features:
-
-- Register/Login via Email or Google
-- Explore Featured Rooms
-- Book, Update, or Cancel Reservations
-- Post Reviews
-
-#### Tech Stack:
-
-- HTML, CSS, TailwindCSS, Javascript, ReactJS, React Router Dom, Tanstack Query, NodeJS, ExpressJs, MongoDB, JWT, Firebase
-
-### [Employee Management](https://employee-management-cf.netlify.app)
-
-#### Features:
-
-- Register/Login via Email or Google
-- HR and Employee Roles
-- Admin Controls: Assign HR, Fire, Verify Employees
-- HR Payroll Management
-- Task Tracking and Payment History
-
-#### Tech Stack:
-
-- HTML, CSS, TailwindCSS, Javascript, ReactJS, React Router Dom, Tanstack Query, NodeJS, ExpressJs, MongoDB, JWT, Firebase, Stripe
-
-### [Brand Shop E-Commerce](https://brand-shop-cf.netlify.app)
-
-#### Features:
-
-- Register/Login via Email or Google
-- Browse Products by Brand
-- Add/Update Products
-- Detailed Product Views
-- Cart Functionality
-
-#### Tech Stack:
-
-- HTML, CSS, ReactJS, NodeJS, MongoDB, Firebase
 
 #
 
